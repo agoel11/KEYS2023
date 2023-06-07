@@ -1,14 +1,14 @@
 site_name: KEYS
 site_description: KEYS internship
-site_author: Emma LeRoy
-site_url: https://eleroy3.github.io/KEYS2022/
+site_author: Ayanle Noor
+site_url: https://AyanleN.github.io/KEYS2023/
 
 # Repository
-repo_name: KEYS2022
-repo_url: https://github.com/eleroy3/KEYS2022
+repo_name: KEYS2023
+repo_url: https://github.com/AyanleN/KEYS2023
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2022 - 2023 Emma LeRoy'
+copyright: 'Copyright &copy; 2023 - 2024 Ayanle Noor'
 
 
 # Configuration
@@ -40,7 +40,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/eleroy3/KEYS2022.git
+      link: https://github.com/AyanleN/KEYS2023.git
 
 # Extensions
 markdown_extensions:
@@ -90,18 +90,10 @@ nav:
   - Jupyter Notebooks: jupyter.md
   - GitHub Actions:
     - GitHub Education Access: githubed.md
-  - KEYS 2022 Main Project: 
-    - Google Earth Engine: googleEarthEngine.md
-    - STAC Catalogs: STACcatalogs.md
+  - KEYS 2023 Main Project: 
+    - My project: myproject.md
     - Awesome Community Datasets: communityDataset.md
   - Results:
     - Community Dataset Standardization Log: standardizationLog.md
     - Poster: poster.md
   - References: references.md
- 
-
-   
-  
-      
-   
- 
