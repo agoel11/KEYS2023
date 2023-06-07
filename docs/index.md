@@ -14,3 +14,28 @@ Emma LeRoy is a rising senior at University High School in Tucson, Arizona. Duri
 This summer she is an intern working at The University of Arizona in Dr. Tyson L. Swetnam's lab: a member of [CyVerse](https://cyverse.org), a cutting edge cyberinfrastructure funded by the National Science Foundation that is designed for research and committed to the principles of open science. 
  
 This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data principles and hopes to help further open science. 
+
+# Table of Contents
+
+- [Introduction](index.md)
+- [Logbook](logbook.md)
+- [Assignments](keysassignments.md)
+- [Jupyter Notebooks](jupyter.md)
+- [GitHub Actions](#github-actions)
+- [KEYS 2023 Main Project](#keys-2023-main-project)
+- [Results](#results)
+- [References](references.md)
+
+## GitHub Actions
+
+- [GitHub Education Access](githubed.md)
+
+## KEYS 2023 Main Project
+
+- [My Project](myproject.md)
+- [Awesome Community Datasets](communityDataset.md)
+
+## Results
+
+- [Community Dataset Standardization Log](standardizationLog.md)
+- [Poster](poster.md)
