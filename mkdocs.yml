@@ -22,6 +22,7 @@ theme:
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
+  logo: 'ichigo.png'
 
   # Default values, taken from mkdocs_theme.yml
   language: en
