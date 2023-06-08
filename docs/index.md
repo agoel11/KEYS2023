@@ -8,8 +8,7 @@ Author: Atharva Goel [![](https://orcid.org/sites/default/files/images/orcid_16x
 Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
 ## About
-
-Ayanle Noor is a rising Freshmen at University Of Arizona in Tucson, Arizona. During the summer of 2023 he is an intern at The University of Arizona through the BIO5 Institute's [KEYS program.](https://keys.arizona.edu/)
+Atharva Goel is a rising Freshmen at University Of Arizona in Tucson, Arizona. During the summer of 2023 he is an intern at The University of Arizona through the BIO5 Institute's [KEYS program.](https://keys.arizona.edu/)
 
 This summer he is an intern working at The University of Arizona in Dr. Tyson L. Swetnam's lab: a member of [CyVerse](https://cyverse.org), a cutting edge cyberinfrastructure funded by the National Science Foundation that is designed for research and committed to the principles of open science. 
  
