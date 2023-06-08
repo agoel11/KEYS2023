@@ -3,7 +3,7 @@
 
 # Introduction
 
-Author: Ayanle Noor [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0000-8123-7162)
+Author: Atharva Goel [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0000-8123-7162)
 
 Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
