@@ -33,7 +33,7 @@ theme:
   font:
     text: Google Sans
     code: Regular
-  favicon: assets/favicon.png
+  favicon: assets/logo.png
   icon:
     logo: logo
 
