@@ -1,14 +1,14 @@
 site_name: KEYS
 site_description: KEYS internship
-site_author: Ayanle Noor
-site_url: https://AyanleN.github.io/KEYS2023/
+site_author: Atharva Goel
+site_url: https://agoel11.github.io/KEYS2023/
 
 # Repository
 repo_name: KEYS2023
-repo_url: https://github.com/AyanleN/KEYS2023
+repo_url: https://github.com/agoel11/KEYS2023
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024 Ayanle Noor'
+copyright: 'Copyright &copy; 2023 - 2024 Atharva Goel'
 
 
 # Configuration
@@ -41,7 +41,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/AyanleN/KEYS2023.git
+      link: https://github.com/agoel11/KEYS2023.git
 
 # Extensions
 markdown_extensions:
