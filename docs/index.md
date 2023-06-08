@@ -36,5 +36,4 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 
 ## Results
 
-- [Community Dataset Standardization Log](standardizationLog.md)
 - [Poster](poster.md)
