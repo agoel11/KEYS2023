@@ -1,3 +1,3 @@
-# my project
+# My Project
 
-## CARS
+## Video Segmentation
