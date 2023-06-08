@@ -22,7 +22,7 @@ theme:
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
-  logo: assets/logo.png
+  logo: assets/logo.jpg
 
   # Default values, taken from mkdocs_theme.yml
   language: en
@@ -33,7 +33,7 @@ theme:
   font:
     text: Google Sans
     code: Regular
-  favicon: assets/logo.png
+  favicon: assets/logo.jpg
   icon:
     logo: logo
 
