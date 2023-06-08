@@ -1,3 +1,3 @@
 # My Project
 
-## Video Segmentation
+## Video Segmentation & Pipeline
