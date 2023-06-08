@@ -21,7 +21,7 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 - [Assignments](keysassignments.md)
 - [Jupyter Notebooks](jupyter.md)
 - [GitHub Actions](#github-actions)
-- [Project Notes] (#notes)
+- [Project Notes](#notes)
 - [KEYS 2023 Main Project](#keys-2023-main-project)
 - [Results](#results)
 - [References](references.md)
