@@ -1,6 +1,6 @@
 #UNIX Shell Notes
 
-##Links
+###Links
 
 [Software Carpentry UNIX Shell Tutorial](https://swcarpentry.github.io/shell-novice/index.html)
 
@@ -8,5 +8,5 @@
 
 [UNIX Shell Commands](https://drive.google.com/file/d/1LcvPbvkkYcssL65ZuwfsRVrzk6GqjB5m/view?usp=sharing)
 
-##Notes
+###Notes
 
