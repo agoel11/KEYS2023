@@ -15,7 +15,7 @@
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/e48a13a1-72ee-43b0-9777-3abb94a5dee0)
 3. Shell commands are used to navigate, visualize, modify (files/folders) and automate (processes), and can only be executed through the shell's terminal window.
 4. Once something is deleted from the Shell, it is gone forever. There is not recycle bin.
-5. The most effective way to use the Shell is to combine commands such as capturing output, filtering output, and passing output in what are known as pipes.`cut -d, -f 2 animals.csv | sort | uniq -c | wc -l`
+5. The most effective way to use the Shell is to combine commands such as capturing output, filtering output, and passing output in what are known as pipes.  `cut -d, -f 2 animals.csv | sort | uniq -c | wc -l`
 6. We can use for loops in order to repeat tasks over many files or instances. Loops can also be nested and can be written in one line or multiple. This is the basic syntax of a for loop.
 ```
 # The word "for" indicated the start of a "For-loop" command
