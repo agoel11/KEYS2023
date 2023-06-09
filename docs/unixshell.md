@@ -13,3 +13,7 @@
 1. The Unix shell is both a command-line interface (CLI) and a scripting language, allowing such repetitive tasks to be done automatically and fast. The shell is a program where users can type commands. With the shell, it’s possible to invoke complicated programs like climate modeling software or simple commands that create an empty directory with only one line of code. The most popular Unix shell is Bash.
 2. General Syntax of a Shell Command                                                                                                                                  
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/e48a13a1-72ee-43b0-9777-3abb94a5dee0)
+3. Shell commands are used to navigate, visualize, modify (files/folders) and automate (processes), and can only be executed through the shell's terminal window.
+4. Once something is deleted from the Shell, it is gone forever. There is not recycle bin.
+5. The most effective way to use the Shell is to combine commands such as capturing output, filtering output, and passing output in what are known as pipes.
+'cut -d, -f 2 animals.csv | sort | uniq -c | wc -l'
