@@ -94,6 +94,7 @@ nav:
   - Project Notes: 
     - UNIX Shell: unixshell.md
     - Version Control with Git: vcwgit.md
+    - Docker: docker.md
   - KEYS 2023 Main Project: 
     - My project: myproject.md
     - Prior Research/ Fact Finding: priorresearch.md
