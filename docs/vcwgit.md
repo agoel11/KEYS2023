@@ -2,7 +2,7 @@
 
 ###Links
 
-[Software Carpentry Version Control with Git Tutorial](https://swcarpentry.github.io/git-novice/)                                                                                                                                                            
+[Software Carpentry Version Control with Git Tutorial](https://swcarpentry.github.io/git-novice/)                                                                                                              
 [Shell & Git Basics CyVerse](https://foss.cyverse.org/00_basics/)                                                                       
 [Git Commands Sheet](https://drive.google.com/file/d/1K3F4_GCemJsxVjGLadyMtOtTTt3jpuVG/view?usp=sharing)
 
@@ -21,3 +21,4 @@ $ git config --global user.email "iam@ironman.snap"
 This is the same username and email as your GitHub account and will be used to publish your changes directly to Github.
 7. You must also set the default text editor you want to use. Here is an example of that command for the `Nano` editor.                                                             
 `$ git config --global core.editor "nano -w"`
+8. 
