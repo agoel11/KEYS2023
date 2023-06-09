@@ -2,8 +2,8 @@
 
 ###Links
 
-[Software Carpentry Version Control with Git Tutorial](https://swcarpentry.github.io/git-novice/)                                                                                                 
-[Shell & Git Basics CyVerse](https://foss.cyverse.org/00_basics/)\
+[Software Carpentry Version Control with Git Tutorial](https://swcarpentry.github.io/git-novice/)                                                                                                                                                            
+[Shell & Git Basics CyVerse](https://foss.cyverse.org/00_basics/)                                                                       
 [Git Commands Sheet](https://drive.google.com/file/d/1K3F4_GCemJsxVjGLadyMtOtTTt3jpuVG/view?usp=sharing)
 
 ###Notes
