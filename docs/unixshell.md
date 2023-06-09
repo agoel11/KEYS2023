@@ -16,4 +16,4 @@
 3. Shell commands are used to navigate, visualize, modify (files/folders) and automate (processes), and can only be executed through the shell's terminal window.
 4. Once something is deleted from the Shell, it is gone forever. There is not recycle bin.
 5. The most effective way to use the Shell is to combine commands such as capturing output, filtering output, and passing output in what are known as pipes.
-'cut -d, -f 2 animals.csv | sort | uniq -c | wc -l'
+`cut -d, -f 2 animals.csv | sort | uniq -c | wc -l`
