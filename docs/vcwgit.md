@@ -27,4 +27,7 @@ This is the same username and email as your GitHub account and will be used to p
 11. When updating a file, you can use `git diff` to see the changes made between the last version and the current version. In order to see differences between older commits, simply type `$ git diff HEAD~1 mars.txt`, the number after the tilde (~) represents how many commits back you are seeing. Then use `git add` to save the file, and `git commit` to save the version. You can also use `git log` to see a history of changes.
 12. Files can be stored in a project’s working directory (which users see), the staging area (where the next commit is being built up) and the local repository (where commits are permanently recorded).
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/7170f30a-1b11-48e7-8a94-30791da428c3)
-13. 
+13. `git checkout` can restore old versions of the file. By typing `$ git checkout HEAD mars.txt` you can restore the last commit, to go back further you wwould need the commit identifier in place of `HEAD`. Remember that we must use the commit number that identifies the state of the repository before the change we’re trying to undo. A common mistake is to use the number of the commit in which we made the change we’re trying to discard. In the example below, we want to retrieve the state from before the most recent commit (HEAD~1), which is commit f22b25e.
+![image](https://github.com/agoel11/KEYS2023/assets/81878922/234e00f3-452d-403b-9654-84f42379a9a8)
+14. Here is an overall working of Git and Version Control.
+![image](https://github.com/agoel11/KEYS2023/assets/81878922/3e6aa511-0698-4890-a9d7-6551f9caa09a)
