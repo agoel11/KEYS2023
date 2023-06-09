@@ -28,3 +28,6 @@ do
 done
 ```
 8. You can also use the `echo` command to see what your Shell command would do without actually running it.
+9. You can save numerours commands in a file, called a Shell Script, and re-run all those operations by typing a single command. This helps with time management, error prevention, and reproducibility. By adding commands to a file, and then calling that file using the `bash` command, you can execute the script. You can add as many commands as you want in the file. You can also use the `$` command followed by a number to add arguments to the command when calling the script.
+For example, this script: `head -n 15 "$1" | tail -n 5`
+Can be called with this command (note the parameter for the `$1`): `$ bash middle.sh octane.pdb`
