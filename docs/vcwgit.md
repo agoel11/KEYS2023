@@ -24,6 +24,7 @@ This is the same username and email as your GitHub account and will be used to p
 8. The `git init` command will make the directory into a repository that can include subdirectories and their files. Creating a directory and initializing it with Git are two seperate things.
 9. We can use the `git status` command at any time to see the status of our repository.
 10. Git doesn't automatically keep track of files. Use the `git add` command, followed by the file name, in order to have Git keep track of a file and save changes. You can then use the `git commit` command in order to save everything you have saved through `git add` permanently. A commit message should also be written in order to make describe changes made to the file(s).
-11. When updating a file, you can use `git diff` to see the changes made between the last version and the current version. Then use `git add` to save the file, and `git commit` to save the version. You can also use `git log` to see a history of changes.
+11. When updating a file, you can use `git diff` to see the changes made between the last version and the current version. In order to see differences between older commits, simply type `$ git diff HEAD~1 mars.txt`, the number after the tilde (~) represents how many commits back you are seeing. Then use `git add` to save the file, and `git commit` to save the version. You can also use `git log` to see a history of changes.
 12. Files can be stored in a project’s working directory (which users see), the staging area (where the next commit is being built up) and the local repository (where commits are permanently recorded).
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/7170f30a-1b11-48e7-8a94-30791da428c3)
+13. 
