@@ -18,5 +18,5 @@ $ git config --global user.name "Tony Stark"
 $ git config --global user.email "iam@ironman.snap"
 ```
 This is the same username and email as your GitHub account and will be used to publish your changes directly to Github.
-7. You must also set the default text editor you want to use. Here is an example of that command for the `Nano` editor.                                                                             
-`	$ git config --global core.editor "nano -w"`
+7. You must also set the default text editor you want to use. Here is an example of that command for the `Nano` editor.                                                             
+`$ git config --global core.editor "nano -w"`
