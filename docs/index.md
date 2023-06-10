@@ -5,7 +5,7 @@
 
 Author: Atharva Goel [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0000-8123-7162)
 
-Advisor: Nirav C Merchant
+Advisor: Dr. Nirav C Merchant
 
 ## About
 Atharva Goel is a rising Senior at Paradise Valley High School in Phoenix, Arizona. During the summer of 2023 he is an intern at The University of Arizona through the BIO5 Institute's [KEYS program.](https://keys.arizona.edu/)
