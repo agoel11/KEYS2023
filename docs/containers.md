@@ -16,7 +16,6 @@
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/96f6aa35-3ca9-4e01-9cb2-30159214d170)
 8. A container image is a static file with executable code that can create a container on a computing system. A container image is immutable—meaning it cannot be changed, and can be deployed consistently in any environment. It is the core component of a containerized architecture. Container images have everything a container needs to run the container engine (Docker or CoreOS), system libraries, utilities, configuration settings, and specific workloads that should run on the container. The image also shares the OS kernel of the host rather than having its own. A container image is composed of layers, added on to a parent image. Layers make it possible to reuse components and configurations across images. Layers can also help reduce container size and improve performance.
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/cc0ef588-1959-4b37-a700-a6cd65d30ffc)
-9. 
 
 ##Docker
 
