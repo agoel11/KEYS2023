@@ -3,6 +3,7 @@
 ###Links
 [Containers Explanation](https://cloud.google.com/learn/what-are-containers)
 [What are Contaiers & How do They Work](https://www.ridge.co/blog/what-are-containers/#what-exactly-is-a-container)
+[Container Image Architecture](https://www.aquasec.com/cloud-native-academy/container-security/container-images/#What-is-Docker-Hub?)
 
 ###Notes
 1. Containers are software packages built to run in any environment and simplify movement and application of software. They include all the elements required to run an application and can be devloped or deployed on any OS, VM, server, or cloud.
@@ -14,6 +15,8 @@
 7. Two softwares, Docker and Kubernetes, are leading software in container development and management. While Docker is a containerization platform, Kubernetes allows the management of multiple containers. Docker is a famous runtime environment for containers and allows an execution space for applications in containers. Kubernetes can store multiple containers to form a cluster while providing a managed environment for containers’ collaboration.
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/96f6aa35-3ca9-4e01-9cb2-30159214d170)
 8. A container image is a static file with executable code that can create a container on a computing system. A container image is immutable—meaning it cannot be changed, and can be deployed consistently in any environment. It is the core component of a containerized architecture. Container images have everything a container needs to run the container engine (Docker or CoreOS), system libraries, utilities, configuration settings, and specific workloads that should run on the container. The image also shares the OS kernel of the host rather than having its own. A container image is composed of layers, added on to a parent image. Layers make it possible to reuse components and configurations across images. Layers can also help reduce container size and improve performance.
+![image](https://github.com/agoel11/KEYS2023/assets/81878922/cc0ef588-1959-4b37-a700-a6cd65d30ffc)
+9. 
 
 ##Docker
 
