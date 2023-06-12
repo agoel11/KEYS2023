@@ -9,3 +9,5 @@
 ***Day 3 (6/8)***: Created and worked on Git website with some struggle on the Actions tab and getting it to auto-update and re-build the website. Also worked on UNIX and Git Bash commands. Will continue to go deeper into that tomorrow.
 
 ***Day 4 (6/9)***: Finished up UNIX learning and testing as well as notes and documentation of learning on website. Learned version control with Git and took extensive notes on website, tried commands and created sample repository as well. Installed and started looking into Docker as well as Singularity and reading up on both softwares and learning the concept of containers. Concept of containerization and virtualization is still confusing and difference between VMs is unclear as well.
+
+***Day 5 (6/12)***: Solidified basic understanding of containers and containerization including use cases, advantages, differences from VMs, container clustering, and container images. Used a variety of sources and recorded notes and important information on website.
