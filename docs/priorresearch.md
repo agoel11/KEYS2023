@@ -49,7 +49,8 @@
         3. One of the problems or challenges associated with interactive VOS is choosing the frame through which the user should provide input. This is known as a Markov Decision Process (MDP).
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/45973fda-0288-4a42-8019-aced5747f07d)
     7. #####Language-guided VOS
-        1. 
+        1. Language-guided VOS uses natural language input to guide segmentation and tracking of objects in a video. Similar to interactive VOS, Language-guided VOS relies on user input, but the input is natural language         rather than outlines. This is typically done by using a combination of machine learning algorithms, such as Convolutional Neural Networks (CNNs) and Recurrent Neural networks (RNNs), and Natural Language                 Processing (NLP) techniques to understand the user's input.
+        2. Natural language input allows for more flexible and intuitive interaction with the algorithm. Instead of defining markers
     
 ##Research Papers
 
