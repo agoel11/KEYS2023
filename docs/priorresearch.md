@@ -6,7 +6,7 @@ Project Description:
 ##Concepts Overview
 
 ###Links                                                                                                                                                                                                              
-[What is Deep Learning](https://aws.amazon.com/what-is/deep-learning/#:~:text=Deep%20learning%20is%20a%20method,produce%20accurate%20insights%20and%20predictions.)
+[What is Deep Learning](https://aws.amazon.com/what-is/deep-learning/#:~:text=Deep%20learning%20is%20a%20method,produce%20accurate%20insights%20and%20predictions.)                                             
 [What is Video Segmentation](https://www.v7labs.com/blog/video-segmentation-guide)
 
 ###Deep Learning
