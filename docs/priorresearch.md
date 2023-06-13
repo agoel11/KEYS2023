@@ -41,7 +41,10 @@ Project Description:
         2. The key advantage of this method is that it requires much less labeled data than a supervised approach. Additionally, the unsupervised methods used in semi-supervised VOS can help to improve the robustness and         generalization of the segmentation results, as they can take into account additional context and information that may not be present in the labeled data.
         3. The Sparse Spatiotemporal Transformers (SST) model proposed in 2021 uses semi-supervised learning for the VOS task. SST processes videos in a single pass of an efficient attention-based network. At every layer         of this net, each spatiotemporal feature vector simultaneously interacts with all other feature vectors in the video.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/a4819d60-2d9b-488a-9471-f1392219b03e)
-        4. 
+        4. SST being feedforward also helps it avoid the compounding issue present with recurrent methods. SST addresses computational complexity using sparse attention operator variants, making it possible to apply             self-attention to high-resolution videos.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/eb292229-90bc-434d-9c15-6018c5f2f8d3)
+    6. #####Interactive VOS
+        1. 
     
 ##Research Papers
 
