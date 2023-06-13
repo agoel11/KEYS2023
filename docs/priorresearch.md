@@ -21,7 +21,11 @@ Project Description:
 7. However deep learning models have some drawbacks as well. They work a lot better when they are trained on large, high-quality datasets, and outliers or mistakes in the input dataset can significantly affect the deep learning process. Because of this, deep learning requires lots of data pre-processing and data storage capacity as well. Deep learning algorithms are also compute-intensive and require infrastructure with sufficient compute capacity to properly function. Otherwise, they take a long time to process results.
 
 ###Video Segmentation
-1. 
+1. Video segmentation is the process by which videos are partitioned into seperate regions by a variety of characteristics. These characteristics include object boundaries, motion, color, texture, or other visual features. The goal of video segmentation is to seperate different objects from the background in a video and to provide a more detailed representation of the content.
+2. Video segmentation is a very useful technology especially in the field of computer vision since it allows for the identification and characterization of individual objects and events in the video as well as the organization and classification of video content.
+3. Video segmentation divdes the content into individual segments or shots (or frames) which can then be characterized and analyzed based on pre-defined attributes. It can also be performed at various levels of granularity, from a single object to whole backgrounds. Video segmentation uses two broad techniques, Video Object Segmentation (VOS) and Video Semantic Segmentation (VSS).
+![image](https://github.com/agoel11/KEYS2023/assets/81878922/5eb0a72f-7057-4992-bba1-7c3bb201c20a)
+4. 
 
 ##Research Papers
 
