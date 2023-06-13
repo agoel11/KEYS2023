@@ -34,8 +34,11 @@ Project Description:
     5. An example of such a method is the Focus on Foreground Network (F2Net). F2Net exploits center point information in order to focus on the foreground object. It also establishes a "Center Prediction Branch" to             estimate the center location of the primary object. Then, the predicted center point is encoded into a gauss map as the spatial guidance prior to enhancing the intra-frame and inter-frame feature matching in our         Center Guiding Appearance Diffusion Module, leading the model to focus on the foreground object.
     
     ![image](https://github.com/agoel11/KEYS2023/assets/81878922/a4f3fb86-1f79-4e9a-8c04-02393574ff0e)
-    6. 
-
+    6. After the appearance matching process, F2Net gets three kinds of information flows: inter-frame features, intra-frame features, and original semantic features of the current frame. Instead of concatenating these         features, F2Net uses an attention-based Dynamic Information Fusion Module to automatically select the most discriminative features. This allows F2Net to produce better segmentation.
+    
+    ![image](https://github.com/agoel11/KEYS2023/assets/81878922/3186b024-99f1-4a1e-98e7-a55a9c2265be)
+    7. 
+    
 ##Research Papers
 
 ###Links
