@@ -44,7 +44,11 @@ Project Description:
         4. SST being feedforward also helps it avoid the compounding issue present with recurrent methods. SST addresses computational complexity using sparse attention operator variants, making it possible to apply             self-attention to high-resolution videos.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/eb292229-90bc-434d-9c15-6018c5f2f8d3)
     6. #####Interactive VOS
-        1. 
+        1. Interactive VOS is used to track and segment object in real-time. The user’s ability to provide input to the algorithm is what makes this method interactive. This user input can then guide the algorithm in its         segmentation and tracking of the object throughout the rest of the video.
+        2. The main feature of interactive VOS is the ability to improve object segmentation and tracking accuracy and reliability. This technique can also help train more accurate object detection models by providing           annotated and labeled data.
+        3. One of the problems or challenges associated with interactive VOS is choosing the frame through which the user should provide input. This is known as a Markov Decision Process (MDP).
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/45973fda-0288-4a42-8019-aced5747f07d)
+    7. #####Language-guided VOS
     
 ##Research Papers
 
