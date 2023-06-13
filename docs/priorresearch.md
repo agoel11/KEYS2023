@@ -43,14 +43,22 @@
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/a4819d60-2d9b-488a-9471-f1392219b03e)
         4. SST being feedforward also helps it avoid the compounding issue present with recurrent methods. SST addresses computational complexity using sparse attention operator variants, making it possible to apply             self-attention to high-resolution videos.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/eb292229-90bc-434d-9c15-6018c5f2f8d3)
-    6. #####Interactive VOS
+    6. #####Interactive VOS:
         1. Interactive VOS is used to track and segment object in real-time. The user’s ability to provide input to the algorithm is what makes this method interactive. This user input can then guide the algorithm in its         segmentation and tracking of the object throughout the rest of the video.
         2. The main feature of interactive VOS is the ability to improve object segmentation and tracking accuracy and reliability. This technique can also help train more accurate object detection models by providing           annotated and labeled data.
         3. One of the problems or challenges associated with interactive VOS is choosing the frame through which the user should provide input. This is known as a Markov Decision Process (MDP).
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/45973fda-0288-4a42-8019-aced5747f07d)
-    7. #####Language-guided VOS
+    7. #####Language-guided VOS:
         1. Language-guided VOS uses natural language input to guide segmentation and tracking of objects in a video. Similar to interactive VOS, Language-guided VOS relies on user input, but the input is natural language         rather than outlines. This is typically done by using a combination of machine learning algorithms, such as Convolutional Neural Networks (CNNs) and Recurrent Neural networks (RNNs), and Natural Language                 Processing (NLP) techniques to understand the user's input.
-        2. Natural language input allows for more flexible and intuitive interaction with the algorithm. Instead of defining markers
+        2. Natural language input allows for more flexible and intuitive interaction with the algorithm. Instead of defining markers or initial locations, the user can provide a simple verbal description of the object           they want tracked. This can be especially useful when there are multiple similar objects or they are difficult to locate.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/d8ad0908-4a6c-49c7-ba6d-21653117c4b7)
+        3. The algorithm first uses NLP techniques to process the user's input and extract relevant information about the object to be segmented and tracked. This information is then used to guide the segmentation and           tracking process.
+        4. One such framework is the Multimodal Tracking Transformer (MTTR) where the objective is to segment text-referred object instances in the frames of a given video. The MTTR model extracts linguistic features             from the text query using a standard Transformer-based text encoder and visual features from the video frames using a spatiotemporal encoder. The features are then passed into a multimodal Transformer, which             outputs several sequences of object predictions.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/d90381ad-857c-4351-8902-c4cb7003a385)
+        5. To determine which predicted sequence best matches the user description, MTTR computes a text-reference score for each sequence for which a temporal segment voting scheme is developed. This allows the model to         focus on more relevant parts of the video when making the decision.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/1ac681d6-9e57-42bf-8cb1-766a820e193f)
+5. ####Video Semantic Segmentation (VSS) methods and models:
+    1. VSS is the task of segmenting and understanding the semantic content of a video.
     
 ##Research Papers
 
