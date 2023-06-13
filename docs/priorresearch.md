@@ -26,8 +26,8 @@ Project Description:
 3. Video segmentation divdes the content into individual segments or shots (or frames) which can then be characterized and analyzed based on pre-defined attributes. It can also be performed at various levels of granularity, from a single object to whole backgrounds. Video segmentation uses two broad techniques, Video Object Segmentation (VOS) and Video Semantic Segmentation (VSS). VOS focuses on tracking objects within a video and is used in applications such as surveillance and autonomous vehicles. VSS focuses on understanding the overall scene and its contents and is used in applications such as augmented reality and video summarization.
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/56aa86e5-1246-47c6-9f19-80e836763085)
 4. Video Object Segmentation (VOS) Methods and Models:
-  I. VOS is the task of segmenting and tracking specific objects within a video. This is typically done by object initialization—identifying the object in the first frame of the video—and then tracking its movement           throughout the rest of the video.
-  II. 
+    1. VOS is the task of segmenting and tracking specific objects within a video. This is typically done by object initialization—identifying the object in the first frame of the video—and then tracking its movement           throughout the rest of the video.
+    2. 
 
 ##Research Papers
 
