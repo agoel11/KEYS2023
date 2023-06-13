@@ -7,6 +7,7 @@ Project Description:
 
 ###Links                                                                                                                                                                                                              
 [What is Deep Learning](https://aws.amazon.com/what-is/deep-learning/#:~:text=Deep%20learning%20is%20a%20method,produce%20accurate%20insights%20and%20predictions.)
+[What is Video Segmentation](https://www.v7labs.com/blog/video-segmentation-guide)
 
 ###Deep Learning
 1. Deep learning is a method in artificial intelligence (AI) that teaches computers to process data in a way that is inspired by the human brain. Deep learning models can recognize complex patterns in pictures, text, sounds, and other data to produce accurate insights and predictions. Deep learning methods can also be used to automate tasks that typically require human intelligence, such as describing images or transcribing a sound file into text.
@@ -20,6 +21,7 @@ Project Description:
 7. However deep learning models have some drawbacks as well. They work a lot better when they are trained on large, high-quality datasets, and outliers or mistakes in the input dataset can significantly affect the deep learning process. Because of this, deep learning requires lots of data pre-processing and data storage capacity as well. Deep learning algorithms are also compute-intensive and require infrastructure with sufficient compute capacity to properly function. Otherwise, they take a long time to process results.
 
 ###Video Segmentation
+1. 
 
 ##Research Papers
 
