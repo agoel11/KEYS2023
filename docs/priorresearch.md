@@ -28,7 +28,7 @@ Project Description:
 4. Video Object Segmentation (VOS) Methods and Models:
     1. VOS is the task of segmenting and tracking specific objects within a video. This is typically done by object initialization—identifying the object in the first frame of the video—and then tracking its movement           throughout the rest of the video. The goal is to segment the object from the background and the follow the changes in its movement throughout the video. There are various methods for object initialization, such as       manual annotation (most accurate but most time-consuming), automatic annotation (least accurate but fastest), semi-automatic annotation (balances accuracy and speed).
     2. After initialization the object must be tracked throughout the video. Methods for object tracking include traditional object tracking algorithms, such as the Kalman filter and the particle filter, and more recent       deep learning-based methods. These deep learning-based methods typically use a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to segment and track objects.
-https://darwin-public.s3.eu-west-1.amazonaws.com/splash_page/video-segmentation.mp4
+    ![image](https://github.com/agoel11/KEYS2023/assets/81878922/6ab7da13-711a-44bd-9205-4af9539c7e22)
     3. Evaluation of video object segmentation methods is typically done using metrics such as the Intersection over Union (IoU) and the Multiple Object Tracking Accuracy (MOTA). IoU measures the overlap between the           predicted object mask and the ground truth mask, while MOTA measures the overall accuracy of the object tracking algorithm.
 
 ##Research Papers
