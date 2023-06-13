@@ -32,6 +32,7 @@ Project Description:
     3. Evaluation of video object segmentation methods is typically done using metrics such as the Intersection over Union (IoU) and the Multiple Object Tracking Accuracy (MOTA). IoU measures the overlap between the           predicted object mask and the ground truth mask, while MOTA measures the overall accuracy of the object tracking algorithm.
     4. Unsupervised VOS, as the name suggests, aims to segment objects in a video without using any labeled data. This task requires the model to learn the appearance and motion of objects in the video and to separate         them from the background. A popular approach to unsupervised VOS is based on optical flow. Optical flow is a technique that estimates the motion of pixels between frames. Optical flow can be used to track the             motion of objects in the video and to segment them from the background.
     5. An example of such a method is the Focus on Foreground Network (F2Net). F2Net exploits center point information in order to focus on the foreground object. It also establishes a "Center Prediction Branch" to             estimate the center location of the primary object. Then, the predicted center point is encoded into a gauss map as the spatial guidance prior to enhancing the intra-frame and inter-frame feature matching in our         Center Guiding Appearance Diffusion Module, leading the model to focus on the foreground object.
+    
     ![image](https://github.com/agoel11/KEYS2023/assets/81878922/a4f3fb86-1f79-4e9a-8c04-02393574ff0e)
     6. 
 
