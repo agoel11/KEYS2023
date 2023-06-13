@@ -36,7 +36,12 @@ Project Description:
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/8d5c4715-fd77-4e53-9d3c-49fa5edc14ee)
         3. After the appearance matching process, F2Net gets three kinds of information flows: inter-frame features, intra-frame features, and original semantic features of the current frame. Instead of concatenating             these features, F2Net uses an attention-based Dynamic Information Fusion Module to automatically select the most discriminative features. This allows F2Net to produce better segmentation. 
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/3186b024-99f1-4a1e-98e7-a55a9c2265be)
-    5. Semi-Supervised VOS
+    5. Semi-Supervised VOS:
+        1. Semi-Supervised VOS uses small amounts of labeled data in order to guide the segmentation process, and then uses unsupervised methods to refine the results. In this way, Semi-Supervised VOS can leverage both           supervised and unsupervised methods to achieve higher efficiency and accuracy.
+        2. The key advantage of this method is that it requires much less labeled data than a supervised approach. Additionally, the unsupervised methods used in semi-supervised VOS can help to improve the robustness and         generalization of the segmentation results, as they can take into account additional context and information that may not be present in the labeled data.
+        3. The Sparse Spatiotemporal Transformers (SST) model proposed in 2021 uses semi-supervised learning for the VOS task. SST processes videos in a single pass of an efficient attention-based network. At every layer         of this net, each spatiotemporal feature vector simultaneously interacts with all other feature vectors in the video.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/a4819d60-2d9b-488a-9471-f1392219b03e)
+        4. 
     
 ##Research Papers
 
