@@ -1,6 +1,6 @@
 #Prior Research/ Initial Fact-finding
 
-Project Description:                                                                                                                                                              
+##Project Description:                                                                                                                                                              
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/77e2dfbd-7cde-4ee9-9cde-72bf51fa559a)
 
 ##Concepts Overview
@@ -49,6 +49,7 @@ Project Description:
         3. One of the problems or challenges associated with interactive VOS is choosing the frame through which the user should provide input. This is known as a Markov Decision Process (MDP).
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/45973fda-0288-4a42-8019-aced5747f07d)
     7. #####Language-guided VOS
+        1. 
     
 ##Research Papers
 
