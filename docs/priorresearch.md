@@ -57,8 +57,8 @@
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/d90381ad-857c-4351-8902-c4cb7003a385)
         5. To determine which predicted sequence best matches the user description, MTTR computes a text-reference score for each sequence for which a temporal segment voting scheme is developed. This allows the model to         focus on more relevant parts of the video when making the decision.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/1ac681d6-9e57-42bf-8cb1-766a820e193f)
-5. ####Video Semantic Segmentation (VSS) methods and models:
-    1. VSS is the task of segmenting and understanding the semantic content of a video.
+5. ####Video Semantic Segmentation (VSS) Methods and Models:
+    1. VSS is the task of segmenting and understanding the semantic content of a video. Which means not only segmenting objects but also understanding their meaning and context. For example, a video semantic segmentation model might be able to identify that a person is walking on a sidewalk, a car is driving on the road, and a building is a skyscraper. The goal is to understand the scene and its contents rather than just tracking specific objects. This task is helpful in applications such as scene understanding, augmented reality, and video summarization.
     
 ##Research Papers
 
