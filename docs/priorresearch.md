@@ -79,6 +79,7 @@
         2. One of the biggest advantages of VPS is that it can differentiate between object, object parts, and backgrounds in a video, all of which provides for a more detailed understanding of the scene. It also allows         us to distinguish and segment multiple instances of the same object in a video, even when they overlap, which comes at the cost of high computational demand.
         3. An example of this is the ViP-DeepLab which performs Depth-aware Video Panoptic Segmentation (DVPS) in order to solve the inverse projection problem (which refers to the ambiguous mapping from the                     retinal images to the sources of retinal stimulation).
         4. It has been found that VPS can be modeled as concatenated image panoptic segmentation. As a result of this, the Panoptic-DeepLab model has been used to perform center regression for two consecutive frames with         respect to only the object centers appearing in the first frame. During inference, this offset prediction allows ViP-DeepLab to group all the pixels in the two frames to the same object that appears in the               first frame. New instances emerge if they are not grouped with the previously detected instances.
+        
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/9fa1ce34-66e0-43bc-af76-d1953af3f7c1)
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/3d7dd2d0-9124-4909-baa9-d4805f9af1a1)
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/7bfc04ce-e9c2-4273-8c9b-272ac653f30e)
