@@ -73,7 +73,7 @@
         3. Given a sequence of video frames, a CNN module extracts features of individual image frames. THe multiple image features are then concatenated into the frame order to form the clip-level feature sequence.             Next, the Transformer takes the clip-level feature sequence as input and outputs a sequence of object predictions in order.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/af274a35-2230-408b-ac47-8b1da71ce091)
         4. The sequence of predictions follows the order of input images, and the predictions of each image follow the same instance order. Thus, instance tracking is achieved seamlessly and naturally in the same                 framework of instance segmentation.
-        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/163ee9a4-2dc7-4769-a2bb-6f1f558a5396)
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/dc835abb-ef3e-4dec-b4b4-1b57bab7a4ff)
     
 ##Research Papers
 
