@@ -66,6 +66,14 @@
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/abd102aa-484f-4bf3-88a8-41b9d7841fe7)
         4. The architecture is coupled with a grouped Knowledge Distillation loss to accelerate the semantic segmentation models for videos.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/e94aff12-73cc-4069-801e-83a64c2589c8)
+    5. #####Video Instance Segmentation:
+        1. Video Instance Segmentation identifies and segments individual instances of objects within a video. This approach is in contrast to the instance-agnostic VSS, which only identifies and segments objects within         a video without considering individual instances.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/27729eea-01d2-4f47-a275-e527d727ba62)
+        2. Video instance segmentation Transformer (VisTR) is a framework built for instance segmentation that views the instance segmentation task as a parallel sequence decoding/prediction problem. Given a video clip           that has multiple image frames as input, the VisTR algorithm outputs the sequence of masks for each instance in the video directly.
+        3. Given a sequence of video frames, a CNN module extracts features of individual image frames. THe multiple image features are then concatenated into the frame order to form the clip-level feature sequence.             Next, the Transformer takes the clip-level feature sequence as input and outputs a sequence of object predictions in order.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/af274a35-2230-408b-ac47-8b1da71ce091)
+        4. The sequence of predictions follows the order of input images, and the predictions of each image follow the same instance order. Thus, instance tracking is achieved seamlessly and naturally in the same                 framework of instance segmentation.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/163ee9a4-2dc7-4769-a2bb-6f1f558a5396)
     
 ##Research Papers
 
