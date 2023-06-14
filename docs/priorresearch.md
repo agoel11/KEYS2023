@@ -82,7 +82,15 @@
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/9fa1ce34-66e0-43bc-af76-d1953af3f7c1)
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/3d7dd2d0-9124-4909-baa9-d4805f9af1a1)
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/7bfc04ce-e9c2-4273-8c9b-272ac653f30e)
-    
+ 6. #####Challenges of Video Segmentation:
+    1. Variability in video content and quality - 
+    2. Lack of temporal consistency - 
+    3. Occlusions - 
+    4. Complexity of visual scenes - 
+    5. Lack of training data - 
+    6. Computational complexity - 
+    7. Evaluation and benchmarking - 
+
 ##Research Papers
 
 ###Links
