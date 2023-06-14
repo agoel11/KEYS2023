@@ -66,6 +66,8 @@
         2. The Temporally Distributed Network (TDNet) is an example of a video instance segmentation architecture inspired by Group Convolutions, which shows that extracting features with separated filter groups not only         allows for model parallelization but also helps learn better representations.
         3. Given a deep image segmentation network, TDNet divides the features extracted by the deep model into N (e.g., N=2 or 4) groups and uses N distinct shallow sub-networks to approximate each group of feature             channels. By forcing each sub-network to cover a separate feature subspace, a strong feature representation can be produced by reassembling the output of these sub-networks. For balanced and efficient computation         over time, the N sub-networks share the same shallow architecture, which is set to be (1/N) of the original deep model’s size to preserve a similar total model capacity.
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/57657a96-4ea7-4c3c-a424-70e97160bddf)
+        4. The architecture is coupled with a grouped Knowledge Distillation loss to accelerate the semantic segmentation models for videos.
+        ![image](https://github.com/agoel11/KEYS2023/assets/81878922/e94aff12-73cc-4069-801e-83a64c2589c8)
     
 ##Research Papers
 
