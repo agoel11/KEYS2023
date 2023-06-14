@@ -81,8 +81,11 @@
         4. It has been found that VPS can be modeled as concatenated image panoptic segmentation. As a result of this, the Panoptic-DeepLab model has been used to perform center regression for two consecutive frames with         respect to only the object centers appearing in the first frame. During inference, this offset prediction allows ViP-DeepLab to group all the pixels in the two frames to the same object that appears in the               first frame. New instances emerge if they are not grouped with the previously detected instances.
         
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/9fa1ce34-66e0-43bc-af76-d1953af3f7c1)
+        
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/3d7dd2d0-9124-4909-baa9-d4805f9af1a1)
+        
         ![image](https://github.com/agoel11/KEYS2023/assets/81878922/7bfc04ce-e9c2-4273-8c9b-272ac653f30e)
+        
  6. ####Challenges of Video Segmentation:
     1. Variability in video content and quality - 
     2. Lack of temporal consistency - 
