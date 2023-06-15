@@ -102,4 +102,6 @@
 [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut-home)
 
 ###DeepLabCut:
-1. 
+1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
+2. To use DeepLabCut you can use their own GUI, their Jupyter Notebook, their Google Colab, or your own terminal. They also provide lots of data that helps you demo the package and test installation.![image](https://github.com/agoel11/KEYS2023/assets/81878922/e87628ff-14ee-47bd-8a0d-3c8b2295feef)
+3. 
