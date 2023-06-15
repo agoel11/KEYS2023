@@ -99,7 +99,7 @@
 
 ###Links:
 
-[DeepLabCut Official](http://www.mackenziemathislab.org/deeplabcut-home)
+[DeepLabCut Official](http://www.mackenziemathislab.org/deeplabcut-home)  
 [DeepLabCut GitHub](https://github.com/DeepLabCut)
 
 ###DeepLabCut:
