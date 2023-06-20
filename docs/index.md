@@ -40,6 +40,7 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 
 - [My Project](myproject.md)
 - [Prior Research/ Fact Finding](priorresearch.md)
+- [Literature Search](litsearch.md)
 
 ## Results
 
