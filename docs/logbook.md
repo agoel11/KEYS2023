@@ -16,4 +16,6 @@
 
 ***Day 7 (6/14)***: Continued work on understanding video segmentation and the methods and models associated with it. Finished learning about VSS methods and recorded findings and learnings on website. Also worked through challenges associated with video segmentation models. Started looking into video segmentation models/ packages such as DeepLabCut. Also started looking into literature search for such packages and software as well as reading through current papers on the topic. Got basic understanding of what DeepLabCut is, will continue understanding how it works and testing it as well.
 
-***Day 8 (6/15)***: 
+***Day 8 (6/15)***: Continued reading up on DeepLabCut and continued literature search. Started finding some papers and storing them for future study and possible use of their methods. Also researched what pipelines have been created in the past, if any, and what their use cases are. Also looked into point tracking and different methods for that. Started gathering questions for meeting with Dr. Merchant on Friday.
+
+***Day 9 (6/16)***: Continued literature search and reading up on current research and methods for video segmentation. Met with Dr. Merchant early in the day to discuss progress so far as well as upcoming timeline. Got many questions answered on actual tasks and use cases as well as clarified projection of project and tasks associated with it. Also created Trello board for timeline and planning of upcoming days and progress. Started getting research question down and moving forward with information on website as well.
