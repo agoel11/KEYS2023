@@ -4,6 +4,7 @@
 
 [DeepLabCut Official](http://www.mackenziemathislab.org/deeplabcut-home)  
 [DeepLabCut GitHub](https://github.com/DeepLabCut)
+[Track-Anything GitHub](https://github.com/gaomingqi/Track-Anything/blob/master/README.md)
 
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
@@ -28,3 +29,9 @@ the data the algorithm achieved human-level accuracy. After varying training and
 annotated frames can be visually checked for accuracy, and corrected if necessary. Eventually, a training dataset is created by merging all the extracted labeled frames and splitting them into subsets of test and train frames. Then, a pre-trained network (ResNet) is trained end-to-end to adapt its weights in order to predict the desired features. The performance of the trained network can then be evaluated on the training and test frames. The trained network can be used to analyze videos yielding extracted pose files.  In case the trained network does not generalize well to unseen data in the evaluation and analysis step, then additional frames with poor results can be extracted and the predicted labels can be manually shifted to their ideal location. This refinement step, if needed, creates an additional set of annotated images that can then be merged with the original training dataset to create a new training dataset. This larger training set can then be used to re-train the feature detectors for better results. This active learning loop can be done iteratively to robustly and accurately analyze videos with potentially large variability- i.e. experiments that include many individuals, and run over long time periods. Furthermore, the user can add additional body parts/labels at later stages during a project as well as correct user-defined labels. ![image](https://github.com/agoel11/KEYS2023/assets/81878922/d3a53dad-bbb0-47d8-b8ff-b2d939e9f728)
     4. However, if a user aims to track (adult) human poses, many excellent options exist, including DeeperCut, ArtTrack, DeepPose, OpenPose, and OpenPose-Plus (better for humans).
     5. DeepLabCut does not support occlusions, requires HPC and GPUs, and also workers faster with smaller images.
+
+###Track-Anything:
+1. Track-Anything is a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only. During tracking, users can flexibly change the objects they wanna track or correct the region of interest if there are any ambiguities.
+2. Track-Anything is suitable for video object tracking and segmentation with shot changes, visualized development and data annotation for video object tracking and segmentation, object-centric downstream video tasks (such as video inpainting and editing).
+3. ####[Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf)
+    4. 
