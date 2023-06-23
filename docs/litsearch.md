@@ -4,7 +4,8 @@
 
 [DeepLabCut Official](http://www.mackenziemathislab.org/deeplabcut-home)  
 [DeepLabCut GitHub](https://github.com/DeepLabCut)  
-[Track-Anything GitHub](https://github.com/gaomingqi/Track-Anything/blob/master/README.md)
+[Track-Anything GitHub](https://github.com/gaomingqi/Track-Anything/blob/master/README.md)  
+[PaddleSeg GitHub](https://github.com/PaddlePaddle/PaddleSeg)
 
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
@@ -51,3 +52,10 @@ annotated frames can be visually checked for accuracy, and corrected if necessar
         7. The failed cases typically appear on the following two occasions. Current VOS models are mostly designed for short videos, which focus more on maintaining short-term memory rather than long-term memory. This leads to mask shrinkage or lacking refinement in long-term videos, as shown in seq (a). Essentially, this is solved in step 3 by the refinement ability of SAM, while its effectiveness is lower than
 expected in realistic applications. It indicates that the ability of SAM refinement based on multiple prompts can be further improved in the future. On the other hand, human participation/interaction in TAM can be an approach to solving such difficulties, while too much interaction will also result in low efficiency. Thus, the mechanism of long-term memory preserving and transient memory updating is still important.
         8. When the object structure is complex, e.g., the bicycle wheels in seq (b) contain many cavities in groundtruth masks. It is very difficult to get a fine-grained initialized mask by propagating the clicks. Thus, the coarse initialized masks may have side effects on the subsequent frames and lead to poor predictions. This suggests that SAM is still struggling with complex and precision structures.
+
+###PaddleSeg:
+1. PaddleSeg is an end-to-end high-efficent development toolkit for image segmentation based on PaddlePaddle, which helps both developers and researchers in the whole process of designing segmentation models, training models, optimizing performance and inference speed, and deploying models. A lot of well-trained models and various real-world applications in both industry and academia help users conveniently build hands-on experiences in image segmentation.
+2. Following the state of the art segmentation methods and using high-performance backbone networks, PaddleSeg provides 45+ models and 150+ high-quality pre-training models, which are better than other open-source implementations.
+3. PaddleSeg provides multi-process asynchronous I/O, multi-card parallel training, evaluation, and other acceleration strategies, combined with the memory optimization function of the PaddlePaddle, which can greatly reduce the training overhead of the segmentation model, all these allowing developers to train image segmentation models more efficiently and at a lower cost.
+4. We build PaddleSeg with the modular design philosophy. Therefore, based on actual application scenarios, developers can assemble diversified training configurations with data augmentation strategies, segmentation models, backbone networks, loss functions, and other different components to meet different performance and accuracy requirements.
+5. PaddleSeg supports image labeling, model designing, model training, model compression, and model deployment. With the help of PaddleSeg, developers can easily finish all tasks in the entire workflow. ![image](https://github.com/agoel11/KEYS2023/assets/81878922/ae5a174a-1a2f-422a-a738-52a9dff1b920)
