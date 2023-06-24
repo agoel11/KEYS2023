@@ -19,3 +19,11 @@
 ***Day 8 (6/15)***: Continued reading up on DeepLabCut and continued literature search. Started finding some papers and storing them for future study and possible use of their methods. Also researched what pipelines have been created in the past, if any, and what their use cases are. Also looked into point tracking and different methods for that. Started gathering questions for meeting with Dr. Merchant on Friday.
 
 ***Day 9 (6/16)***: Continued literature search and reading up on current research and methods for video segmentation. Met with Dr. Merchant early in the day to discuss progress so far as well as upcoming timeline. Got many questions answered on actual tasks and use cases as well as clarified projection of project and tasks associated with it. Also created Trello board for timeline and planning of upcoming days and progress. Started getting research question down and moving forward with information on website as well.
+
+***Day 10 (6/20)***:
+
+***Day 11 (6/21)***:
+
+***Day 12 (6/22)***:
+
+***Day 13 (6/23)***:
