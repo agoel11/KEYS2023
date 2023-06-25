@@ -20,10 +20,10 @@
 
 ***Day 9 (6/16)***: Continued literature search and reading up on current research and methods for video segmentation. Met with Dr. Merchant early in the day to discuss progress so far as well as upcoming timeline. Got many questions answered on actual tasks and use cases as well as clarified projection of project and tasks associated with it. Also created Trello board for timeline and planning of upcoming days and progress. Started getting research question down and moving forward with information on website as well.
 
-***Day 10 (6/20)***:
+***Day 10 (6/20)***: Had to go back to DeepLabCut after conversation with Dr. Merchant. Read into it more and analyzed use cases as well as different research papers on the package. Understood how video segmentation (and software packages in general) work and how they can be used. Updated logbook with information and website with findings on DeepLabCut. 
 
-***Day 11 (6/21)***:
+***Day 11 (6/21)***: Finished reading both papers on DeepLabCut and gained working understanding of the package. Recorded everything on website along with visual models of how DeepLabCut works and what it does. Started searching for second and third method in order to research and learn more about. Found the package Track-Anything and started looking into it and seeing if it meets the needs of the project.
 
-***Day 12 (6/22)***:
+***Day 12 (6/22)***: Read all about Track-Anything and learned how it works and what it is. Learned about segment anything models and how they differ from traditional video segmentation models like DeepLabCut. Also learned how models can be compounded and built off each other. For example, Track-Anything is based off SAM (Segment Anything Model) and XMem and therefore creates its own new output. Read the paper on Track-Anything and recorded findings on website. Also updated Trello board and started planning for next week.
 
-***Day 13 (6/23)***:
+***Day 13 (6/23)***: Research the third package that could be used and evaluated against Track-Anything and DeepLabCut. Found a package called PaddleSeg and initially started reading through that, but realised it was only meant for image segmentation not video segmentation. Found another package called XMem (same one Track-Anything uses and is built off) and started researching and learning about it. Also asked Dr. Merchant some clarification questions and plans for next week after initial research has been done. Updated Trello board with plans for next week and shared link with Dr. Merchant. Finished reading and learning about XMem and its innovative memory allocation method and recorded all learnings on website.
