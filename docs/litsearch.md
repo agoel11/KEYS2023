@@ -6,8 +6,8 @@
 [DeepLabCut GitHub](https://github.com/DeepLabCut)  
 [Track-Anything GitHub](https://github.com/gaomingqi/Track-Anything/blob/master/README.md)  
 [XMem GitHub](https://github.com/hkchengrex/XMem)  
-[Mask-FreeVIS Official](https://www.vis.xyz/pub/maskfreevis/)  
-[Mask-FreeVIS GitHub](https://github.com/SysCV/MaskFreeVIS)  
+[MaskFreeVIS Official](https://www.vis.xyz/pub/maskfreevis/)  
+[MaskFreeVIS GitHub](https://github.com/SysCV/MaskFreeVIS)  
 
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
@@ -74,7 +74,14 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/c5794ae8-48da-4eed-8f5a-c06fa5f97603)
     10. Failure Cases: ![image](https://github.com/agoel11/KEYS2023/assets/81878922/58af7de8-c761-409e-976d-5a3705c95823)
 
-###Mask-FreeVIS:
+###MaskFreeVIS:
+1. The recent advancement in Video Instance Segmentation (VIS) has largely been driven by the use of deeper and increasingly data-hungry transformer-based models. However, video masks are tedious and expensive to annotate, limiting the scale and diversity of existing VIS datasets. The solution proposed is MaskFreeVIS, which aims to remove the mask-annotation requirement, achieving highly competitive VIS performance, while only using bounding box annotations for the object state. It leverages the rich temporal mask consistency constraints in videos by introducing the Temporal KNN-patch Loss (TK-Loss), providing strong mask supervision without any labels. TK-Loss finds one-to-many matches across frames, through an efficient patch-matching step followed by a K-nearest neighbor selection. A consistency loss is then enforced on the found matches. The mask-free objective is simple to implement, has no trainable parameters, is computationally efficient, yet outperforms baselines employing, e.g., state-of-the-art optical flow to enforce temporal mask consistency. MaskFreeVIS is validated on the YouTube-VIS 2019/2021, OVIS and BDD100K MOTS benchmarks. The results clearly demonstrate the efficacy of the method by drastically narrowing the gap between fully and weakly-supervised VIS performance.
+2. MaskFreeVIS has high-performing video instance segmentation without using any video masks or even image mask labels. Using SwinL and built on Mask2Former, MaskFreeVIS achieved 56.0 AP on YTVIS without using any video masks labels. Using ResNet-101, MaskFreeVIS achieves 49.1 AP without using video masks, and 47.3 AP only using COCO mask initialized model.
+3. A new parameter-free Temporal KNN-patch Loss (TK-Loss), which leverages temporal masks consistency using unsupervised one-to-k patch correspondence is what MaskFreeVIS uses. TK-Loss is flexible to intergrated with state-of-the-art transformer-based VIS models, with no trainable parameters.
+4. ####[Mask-Free Video Instance Segmentation](https://arxiv.org/pdf/2303.15904.pdf):
+![image](https://github.com/agoel11/KEYS2023/assets/81878922/4d06848e-defb-41cf-ade2-5ecce8d517fa)
+    1. Video Instance Segmentation (VIS) requires jointly detecting, tracking and segmenting all objects in a video from
+a given set of categories. 
 
 ##Matrix & Comparison
 | Method | Use Case |
