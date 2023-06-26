@@ -73,8 +73,8 @@ expected in realistic applications. It indicates that the ability of SAM refinem
     10. Failure Cases: ![image](https://github.com/agoel11/KEYS2023/assets/81878922/58af7de8-c761-409e-976d-5a3705c95823)
 
 ##Matrix & Comparison
-| Method | Set-up Time | Processing Time | Efficiency on Multi-Human Video | Efficiency on Single-Human Video | Efficiency on Multi-Animal Video | Efficiency on Single-Animal Video |
-|--------|--------|--------|--------|--------|--------|--------|
-| DeepLabCut |
-| Track-Anything |
-| XMem |
+| Method | Use Case |
+|--------|--------|
+| DeepLabCut | Trained Pose Estimation/ Tracking |
+| Track-Anything | Semi-supervised Segmentation/ Tracking|
+| XMem | Trained Segmentation/ Tracking |
