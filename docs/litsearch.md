@@ -74,7 +74,7 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 
 ##Matrix & Comparison
 | Method | Set-up Time | Processing Time | Efficiency on Multi-Human Video | Efficiency on Single-Human Video | Efficiency on Multi-Animal Video | Efficiency on Single-Animal Video |
-|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|--------|--------|
 | DeepLabCut |
 | Track-Anything |
 | XMem |
