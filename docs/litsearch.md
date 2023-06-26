@@ -71,3 +71,10 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/f1fc5dbd-09c0-478c-8596-7ee4f139e47c)  
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/c5794ae8-48da-4eed-8f5a-c06fa5f97603)
     10. Failure Cases: ![image](https://github.com/agoel11/KEYS2023/assets/81878922/58af7de8-c761-409e-976d-5a3705c95823)
+
+##Matrix & Comparison
+| Method | Criteria 1 | Criteria 2 | Criteria 3 | Criteria 4 |
+|--------|--------|--------|--------|--------|
+| DeepLabCut |
+| Track-Anything |
+| XMem |
