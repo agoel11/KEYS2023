@@ -89,8 +89,8 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 
 
 ##Matrix & Comparison
-| Method | Use Case |
-|--------|--------|
+| Method | Use Case | Total Time to Test | Processing Time | Ease of Use | Efficiency of Singular-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Singular-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | DeepLabCut | Trained Pose Estimation/ Tracking |
 | Track-Anything | Semi-supervised Segmentation/ Tracking|
 | XMem | Trained Segmentation/ Tracking |
