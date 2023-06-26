@@ -5,7 +5,11 @@
 [DeepLabCut Official](http://www.mackenziemathislab.org/deeplabcut-home)  
 [DeepLabCut GitHub](https://github.com/DeepLabCut)  
 [Track-Anything GitHub](https://github.com/gaomingqi/Track-Anything/blob/master/README.md)  
-[XMem GitHub](https://github.com/hkchengrex/XMem)
+[XMem GitHub](https://github.com/hkchengrex/XMem)  
+[OSVOS Official](https://cvlsegmentation.github.io/osvos-s/index.html)  
+[OSVOS GitHub](https://github.com/kmaninis/OSVOS-PyTorch)  
+[Mask-FreeVIS Official](https://www.vis.xyz/pub/maskfreevis/)  
+[Mask-FreeVIS GitHub](https://github.com/SysCV/MaskFreeVIS)  
 
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
