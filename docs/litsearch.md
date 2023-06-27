@@ -93,16 +93,20 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 
 1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d) (SH, 2.84 MB, 28 sec.)  
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/2963e481-7a9f-417b-8ad0-91e0011dbf7a)
+    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/3174c437-34ad-42de-b000-09c54a29e76e)
 2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c) (MH, 2.07 MB, 14 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/5f1934c5-f4dc-4627-8dc7-32383b6d6adc)
+    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/14518da5-e2a2-4185-b125-ec5f37344be6)
 3. [Single-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/dbea231a-4d49-4723-89ea-eeb54ba56c4c) (SA, 742 KB, 12 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/65ff00cd-2b5b-473c-90df-f77e3590b8ce)
+    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/a2f291c7-732d-4da3-8b7a-349f27aa5577)
 4. [Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/195c1399-1402-45e1-83e0-0e4d0491a76e) (MA, 6.35 MB, 13 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/d8196e48-7464-49ae-a6be-1055dadcdffe)
+    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/26b548a2-21f4-4c2a-b4b7-b88c31180be6)
 
 | Method | Use Case | Number of Papers Using Tool | Activeness | Total Time to Test | Processing Time | Ease of Use | Efficiency of Single-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Single-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |-|-|-|-|-|-|-|-|-|-|-|
 | DeepLabCut | Trained Pose Estimation/ Tracking | 3310 | 5 | SH - 6m <br />MH - 5m <br />SA - 5m <br />MA - 5m| SH - 1m <br />MH - 1m <br />SA - 56s <br />MA - 56s| 4 | 4 | 2 | 3 | 3 |
-| Track-Anything | Semi-supervised Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
+| Track-Anything | Semi-supervised Segmentation/ Tracking | 3 | 4 | SH - 3m <br />MH - 2m <br />SA - 2m <br />MA - 3m | SH - 2m <br />MH - 1m <br />SA - 52s <br />MA - 1m| 5 | 4 | 5 | 5 | 4 |
 | XMem | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
 | MaskFreeVIS | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
