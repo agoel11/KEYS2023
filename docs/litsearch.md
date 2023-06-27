@@ -102,7 +102,7 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 
 | Method | Use Case | Number of Papers Using Tool | Activeness | Total Time to Test | Processing Time | Ease of Use | Efficiency of Single-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Single-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| DeepLabCut | Trained Pose Estimation/ Tracking | x | x | SH - 6m <br />MH - 5m <br />SA - 5m <br />MA - 5m| SH - 1m <br />MH - 1m <br />SA - 56s <br />MA - 56s| x | 4 | 2 | 3 | 3 |
+| DeepLabCut | Trained Pose Estimation/ Tracking | x | x | SH - 6m <br />MH - 5m <br />SA - 5m <br />MA - 5m| SH - 1m <br />MH - 1m <br />SA - 56s <br />MA - 56s| x | **4** | **2** | **3** | **3** |
 | Track-Anything | Semi-supervised Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
 | XMem | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
 | MaskFreeVIS | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
