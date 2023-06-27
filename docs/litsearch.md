@@ -89,6 +89,11 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 
 
 ##Matrix & Comparison
+All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below.
+Singular-Human - https://github.com/agoel11/KEYS2023/assets/81878922/b0337b26-cb70-451c-9a36-cafa7593d49d
+Multi-Human - 
+Singular-Animal - 
+Multi-Animal - 
 | Method | Use Case | Total Time to Test | Processing Time | Ease of Use | Efficiency of Singular-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Singular-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | DeepLabCut | Trained Pose Estimation/ Tracking |
