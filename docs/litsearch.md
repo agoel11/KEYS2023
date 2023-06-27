@@ -90,10 +90,10 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 
 ##Matrix & Comparison
 All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below.  
-[Singular-Human](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d)
-[Multi-Human](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c)
-[Singular-Animal](https://github.com/agoel11/KEYS2023/assets/81878922/dbea231a-4d49-4723-89ea-eeb54ba56c4c) 
-[Multi-Animal](https://github.com/agoel11/KEYS2023/assets/81878922/195c1399-1402-45e1-83e0-0e4d0491a76e)
+[Singular-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d)  
+[Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c)  
+[Singular-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/dbea231a-4d49-4723-89ea-eeb54ba56c4c)  
+[Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/195c1399-1402-45e1-83e0-0e4d0491a76e)  
 
 | Method | Use Case | Total Time to Test | Processing Time | Ease of Use | Efficiency of Singular-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Singular-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
