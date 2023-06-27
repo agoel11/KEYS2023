@@ -1,5 +1,3 @@
-
-https://github.com/agoel11/KEYS2023/assets/81878922/f1dfb710-696e-4a5a-8301-3b3785ba0d72
 ##Method Search & Software:
 
 ###Links:
