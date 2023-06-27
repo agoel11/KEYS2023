@@ -93,13 +93,14 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 
 1. [Singular-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d) (SH, 2.84 MB, 28 sec.)  
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/2963e481-7a9f-417b-8ad0-91e0011dbf7a)
-2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c) (MH, 2.07 MB, 14 sec.)  
+2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c) (MH, 2.07 MB, 14 sec.)
+    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/5f1934c5-f4dc-4627-8dc7-32383b6d6adc)
 3. [Singular-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/dbea231a-4d49-4723-89ea-eeb54ba56c4c) (SA, 742 KB, 12 sec.)  
 4. [Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/195c1399-1402-45e1-83e0-0e4d0491a76e) (MA, 6.35 MB, 13 sec.)  
 
 | Method | Use Case | Number of Papers Using Tool | Activeness | Total Time to Test | Processing Time | Ease of Use | Efficiency of Singular-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Singular-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| DeepLabCut | Trained Pose Estimation/ Tracking | x | x | SH - 6m | SH - 1m | x | 4 | x | x | x |
+| DeepLabCut | Trained Pose Estimation/ Tracking | x | x | SH - 6m  MH - 5m 18s | SH - 1m  MH - 1m| x | 4 | 2 | x | x |
 | Track-Anything | Semi-supervised Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
 | XMem | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
 | MaskFreeVIS | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
