@@ -91,7 +91,7 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 ##Matrix & Comparison
 All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below. 
 
-1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d) (SH, 2.84 MB, 28 sec.) ![mask](https://github.com/agoel11/KEYS2023/assets/81878922/55fc2eb2-262b-4c0c-997c-b0b19c2ce614)
+1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d) (SH, 2.84 MB, 28 sec.) ![imageedit_30_5364822766](https://github.com/agoel11/KEYS2023/assets/81878922/6b07b72c-665f-4c0c-83e4-d5af261627e8)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/2963e481-7a9f-417b-8ad0-91e0011dbf7a)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/3174c437-34ad-42de-b000-09c54a29e76e)
 2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c) (MH, 2.07 MB, 14 sec.)
