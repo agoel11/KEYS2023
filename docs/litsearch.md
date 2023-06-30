@@ -92,10 +92,10 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below. 
 
 1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/b17514ec-2046-4e6c-a591-e2825c89a488) (SH, 2.84 MB, 28 sec.)
-    1. [DeepLabCut](
+    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/ae326e95-2013-4409-9c7b-f78da93db1ba)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/aaaf21c3-f634-40cd-8093-ba3be816340d)
 2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/79b3624b-be38-4f2f-9d06-f1989ccf3e52) (MH, 2.07 MB, 14 sec.)
-    1. [DeepLabCut](
+    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/dd71a0ae-a10c-4306-a3ce-1801d2b3960d)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/4c182174-967c-4090-b240-406643003cd1)
 3. [Single-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/92f3eba9-1a4f-40ab-9cea-bd5c85e92a6d) (SA, 742 KB, 12 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/76370251-f527-4224-b39a-ab2c209274c1)
