@@ -91,18 +91,18 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 ##Matrix & Comparison
 All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below. 
 
-1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/cdf00841-2475-43f1-acb2-a87329658a1d) (SH, 2.84 MB, 28 sec.)
-    1. [DeepLabCut](
-    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/3174c437-34ad-42de-b000-09c54a29e76e)
-2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/e984f372-535b-409b-9620-c230da3cb98c) (MH, 2.07 MB, 14 sec.)
-    1. [DeepLabCut](
-    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/14518da5-e2a2-4185-b125-ec5f37344be6)
-3. [Single-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/dbea231a-4d49-4723-89ea-eeb54ba56c4c) (SA, 742 KB, 12 sec.)
-    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/1e27b2d0-d8d1-4571-b14d-e5c67e93fdaa)
-    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/a2f291c7-732d-4da3-8b7a-349f27aa5577)
-4. [Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/195c1399-1402-45e1-83e0-0e4d0491a76e) (MA, 6.35 MB, 13 sec.)
-    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/d8196e48-7464-49ae-a6be-1055dadcdffe)
-    2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/26b548a2-21f4-4c2a-b4b7-b88c31180be6)
+1. [Single-Human Video](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledance.mp4) (SH, 2.84 MB, 28 sec.)
+    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledanceDLC_resnet101_myDLC_modelZooJun26shuffle1_103000_filtered_labeled.mp4)
+    2. [Track-Anything](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledance%20(1).mp4)
+2. [Multi-Human Video]() (MH, 2.07 MB, 14 sec.)
+    1. [DeepLabCut]()
+    2. [Track-Anything]()
+3. [Single-Animal Video]() (SA, 742 KB, 12 sec.)
+    1. [DeepLabCut]()
+    2. [Track-Anything]()
+4. [Multi-Animal Video]() (MA, 6.35 MB, 13 sec.)
+    1. [DeepLabCut]()
+    2. [Track-Anything]()
 
 | Method | Use Case | Number of Papers Using Tool | Activeness | Total Time to Test | Processing Time | Ease of Use | Efficiency of Single-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Single-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |-|-|-|-|-|-|-|-|-|-|-|
