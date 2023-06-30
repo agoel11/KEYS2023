@@ -91,9 +91,9 @@ expected in realistic applications. It indicates that the ability of SAM refinem
 ##Matrix & Comparison
 All qualitative fields will be marked on a scale of 1-5 with 1 representing a worse rating and 5 representing a great rating. The videos used to test are uploaded below. 
 
-1. [Single-Human Video](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledance.mp4) (SH, 2.84 MB, 28 sec.)
-    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledanceDLC_resnet101_myDLC_modelZooJun26shuffle1_103000_filtered_labeled.mp4)
-    2. [Track-Anything](https://github.com/agoel11/KEYS2023/blob/1c58f0f6771639eee1cd6dad03201fb3728e105e/Test_Videos/bbt_singledance%20(1).mp4)
+1. [Single-Human Video](https://github.com/agoel11/KEYS2023/blob/main/Test_Videos/bbt_singledance.mp4) (SH, 2.84 MB, 28 sec.)
+    1. [DeepLabCut]()
+    2. [Track-Anything]()
 2. [Multi-Human Video]() (MH, 2.07 MB, 14 sec.)
     1. [DeepLabCut]()
     2. [Track-Anything]()
