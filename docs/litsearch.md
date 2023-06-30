@@ -98,7 +98,7 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/dd71a0ae-a10c-4306-a3ce-1801d2b3960d)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/4c182174-967c-4090-b240-406643003cd1)
 3. [Single-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/92f3eba9-1a4f-40ab-9cea-bd5c85e92a6d) (SA, 742 KB, 12 sec.)
-    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/76370251-f527-4224-b39a-ab2c209274c1)
+    1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/865add2f-2b3e-4bb5-9fe3-6627e3ef1f34)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/dee56854-13c9-494a-a9be-613d1917b5e1)
 4. [Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/df2f5f22-2d05-4c7e-9509-49c46db1779f) (MA, 6.35 MB, 13 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/1645742d-691d-4647-8324-04f29499d519)
