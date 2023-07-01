@@ -2,7 +2,7 @@
 
 ## Poster Assignments:
 
-###1. [Assignment 1: Internship Description](https://github.com/agoel11/KEYS2023/files/11923771/Assignment.1_.Internship.Description.pdf){:target="_blank"}
+###1. [Assignment 1: Internship Description](/pdfs/Assignment#1_InternshipDescription.pdf){:target="_blank"}
 ###2. [Assignment 2: Introduction to your Research](https://github.com/agoel11/KEYS2023/files/11923772/Assignment.2_.Introduction.to.Your.Research.pdf){:target="_blank"}
 ###3. [Assignment 3: Materials and Methods](https://github.com/agoel11/KEYS2023/files/11923773/Assignment.3_.Materials.Methods.pdf){:target="_blank"}
 ###4. Assignment 4: Results
