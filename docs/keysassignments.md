@@ -6,9 +6,9 @@
 ###2. [Assignment 2: Introduction to your Research](https://github.com/agoel11/KEYS2023/files/11923772/Assignment.2_.Introduction.to.Your.Research.pdf){:target="_blank"}
 ###3. [Assignment 3: Materials and Methods](https://github.com/agoel11/KEYS2023/files/11923773/Assignment.3_.Materials.Methods.pdf){:target="_blank"}
 ###4. Assignment 4: Results
-###5. Assignment 5 Long Abstract
-###6. Assignment 6 Conclusion and Discussion
-###7. Assignment 7 Title and Short Abstract
+###5. Assignment 5: Long Abstract
+###6. Assignment 6: Conclusion and Discussion
+###7. Assignment 7: Title and Short Abstract
 
 
 ## Reflections:
