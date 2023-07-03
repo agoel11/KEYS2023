@@ -129,3 +129,4 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 | Track-Anything | Semi-supervised Segmentation/ Tracking | 3 | 4 | SH - 3m <br />MH - 2m <br />SA - 2m <br />MA - 3m | SH - 2m <br />MH - 1m <br />SA - 52s <br />MA - 1m| 5 | 4 | 5 | 5 | 4 |
 | XMem | Trained Segmentation/ Tracking | 1500 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
 | MaskFreeVIS | Trained Segmentation/ Tracking | 2 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
+| YOLOv8 | Trained Pose Estimation/ Tracking | 382 | x | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | x | x | x | x | x |
