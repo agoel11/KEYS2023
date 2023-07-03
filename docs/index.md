@@ -3,7 +3,7 @@
 
 # Introduction
 
-Author: Atharva Goel [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0000-8123-7162)
+Author: Atharva Goel
 
 Advisor: Dr. Nirav C Merchant
 
