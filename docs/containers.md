@@ -34,10 +34,3 @@
 6. The Docker *registry* stores Docker images. Docker Hub is the public registry that anyone can use and Docker looks for images on Docker Hub by default. When you use `docker pull` or `docker run` commands, the images are pulled from the configured registry.
 7. Docker images are read-only templates with instructions for creating a Docker container. Often an image is based, or built, upon another previous image with additional customization or modifications (this is also because images are immutable). You can create your own image or use pre-built ones as well. To build your own image, you create a Dockerfile with a simple syntax for defining the steps needed to create the image and run it. Each instruction in a Dockerfile creates a layer in the image. When you change the Dockerfile and rebuild the image, only those layers which have changed are rebuilt. This is part of what makes images so lightweight, small, and fast, when compared to other virtualization technologies.
 8. Docker containers are runnable instances of Docker images. You can create, start, stop, move, or delete a container using the Docker API or CLI. You can connect a container to one or more networks, attach storage to it, or even create a new image based on its current state. A container is isolated from the host machine and other containers, but you can control how isolated you would like the container to be. A container is defined by its image as well as any configuration options you provide to it when you create or start it. When a container is removed, any changes to its state that are not stored in persistent storage disappear.
-
-##Singularity
-
-###Links
-[Official Singularity Website](https://cloud.sylabs.io/)
-
-###Notes
