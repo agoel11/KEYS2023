@@ -8,7 +8,7 @@
 [XMem GitHub](https://github.com/hkchengrex/XMem)  
 [MaskFreeVIS Official](https://www.vis.xyz/pub/maskfreevis/)  
 [MaskFreeVIS GitHub](https://github.com/SysCV/MaskFreeVIS)  
-
+[YOLO8 Official](
 
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
@@ -87,6 +87,19 @@ expected in realistic applications. It indicates that the ability of SAM refinem
     4. TK-Loss simply replaces the conventional video mask losses in supervising video mask generation. To further enforce temporal consistency through the video clip, TK-Loss is employed in a cyclic manner instead of using dense frame-wise connections. This greatly reduces memory cost with negligible performance drop. ![image](https://github.com/agoel11/KEYS2023/assets/81878922/9c828018-2e73-495c-af10-8cf47769216f)
     5. MaskFreeVIS achieves competitive VIS performance without using any video masks or even image mask labels on all datasets. Validated on various methods and backbones, MaskFreeVIS achieves 91.25% performance of its fully supervised counterparts, even outperforming a few recent fully-supervised methods on the popular YTVIS benchmark.  
 ![image](https://github.com/agoel11/KEYS2023/assets/81878922/f4397575-b1ec-4391-9a01-f75b07016ad1)    ![image](https://github.com/agoel11/KEYS2023/assets/81878922/0d8cc43a-678f-4189-a759-3ae10c4c7f3c) ![image](https://github.com/agoel11/KEYS2023/assets/81878922/1edd17e0-cdcf-4653-95bf-2241903d6b18)
+
+###YOLO8:
+1. Ultralytics YOLOv8 is the latest version of the acclaimed real-time object detection and image segmentation model. YOLOv8 is built on cutting-edge advancements in deep learning and computer vision, offering unparalleled performance in terms of speed and accuracy. Its streamlined design makes it suitable for various applications and easily adaptable to different hardware platforms, from edge devices to cloud APIs.
+2. Using YOLOv8 is as simple as installing `ultralytics` with pip and get it up and running in minutes. YOLOv8 helps you predict new images and videos. You can also train a new YOLOv8 model on your own custom dataset or use a pre-trained model. YOLOv8 also provides tasks like segment, classify, pose and track.
+3. YOLO's History:
+    1. YOLO (You Only Look Once), a popular object detection and image segmentation model, was developed by Joseph Redmon and Ali Farhadi at the University of Washington. Launched in 2015, YOLO quickly gained popularity for its high speed and accuracy.
+    2. YOLOv2, released in 2016, improved the original model by incorporating batch normalization, anchor boxes, and dimension clusters.
+    3. YOLOv3, launched in 2018, further enhanced the model's performance using a more efficient backbone network, multiple anchors and spatial pyramid pooling.
+    4. YOLOv4 was released in 2020, introducing innovations like Mosaic data augmentation, a new anchor-free detection head, and a new loss function.
+    5. YOLOv5 further improved the model's performance and added new features such as hyperparameter optimization, integrated experiment tracking and automatic export to popular export formats.
+    6. YOLOv6 was open-sourced by Meituan in 2022 and is in use in many of the company's autonomous delivery robots.
+    7. YOLOv7 added additional tasks such as pose estimation on the COCO keypoints dataset.
+    8. YOLOv8 is the latest version of YOLO by Ultralytics. As a cutting-edge, state-of-the-art (SOTA) model, YOLOv8 builds on the success of previous versions, introducing new features and improvements for enhanced performance, flexibility, and efficiency. YOLOv8 supports a full range of vision AI tasks, including detection, segmentation, pose estimation, tracking, and classification. This versatility allows users to leverage YOLOv8's capabilities across diverse applications and domains.
 
 
 ##Matrix & Comparison
