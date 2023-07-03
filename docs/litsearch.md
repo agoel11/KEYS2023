@@ -9,6 +9,7 @@
 [MaskFreeVIS Official](https://www.vis.xyz/pub/maskfreevis/)  
 [MaskFreeVIS GitHub](https://github.com/SysCV/MaskFreeVIS)  
 
+
 ###DeepLabCut:
 1. DeepLabCut is a software package designed for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. DeepLabCut is very accurate and efficient and requires minimal training data as well. The versatility of this framework is demonstrated by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL (releases prior to 2.1.9 were developed at Harvard University).
 2. To use DeepLabCut you can use their own GUI, their Jupyter Notebook, their Google Colab, or your own terminal. They also provide lots of data that helps you demo the package and test installation.![image](https://github.com/agoel11/KEYS2023/assets/81878922/e87628ff-14ee-47bd-8a0d-3c8b2295feef)
@@ -108,5 +109,5 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 |-|-|-|-|-|-|-|-|-|-|-|
 | DeepLabCut | Trained Pose Estimation/ Tracking | 3310 | 5 | SH - 6m <br />MH - 5m <br />SA - 5m <br />MA - 5m| SH - 1m <br />MH - 1m <br />SA - 56s <br />MA - 56s| 4 | 4 | 2 | 3 | 3 |
 | Track-Anything | Semi-supervised Segmentation/ Tracking | 3 | 4 | SH - 3m <br />MH - 2m <br />SA - 2m <br />MA - 3m | SH - 2m <br />MH - 1m <br />SA - 52s <br />MA - 1m| 5 | 4 | 5 | 5 | 4 |
-| XMem | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
-| MaskFreeVIS | Trained Segmentation/ Tracking | x | x | x | x | x | x | x | x | x |
+| XMem | Trained Segmentation/ Tracking | 1500 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
+| MaskFreeVIS | Trained Segmentation/ Tracking | 2 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
