@@ -113,15 +113,19 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 1. [Single-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/b17514ec-2046-4e6c-a591-e2825c89a488) (SH, 2.84 MB, 28 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/ae326e95-2013-4409-9c7b-f78da93db1ba)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/aaaf21c3-f634-40cd-8093-ba3be816340d)
+    3. [YOLOv8](https://github.com/agoel11/KEYS2023/assets/81878922/3d7527fa-eeae-4ddb-a962-1410be1ea4f3)
 2. [Multi-Human Video](https://github.com/agoel11/KEYS2023/assets/81878922/79b3624b-be38-4f2f-9d06-f1989ccf3e52) (MH, 2.07 MB, 14 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/dd71a0ae-a10c-4306-a3ce-1801d2b3960d)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/4c182174-967c-4090-b240-406643003cd1)
+    3. [YOLOv8](https://github.com/agoel11/KEYS2023/assets/81878922/8cab6b57-08b6-42c9-b783-d50e446774f1)
 3. [Single-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/92f3eba9-1a4f-40ab-9cea-bd5c85e92a6d) (SA, 742 KB, 12 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/865add2f-2b3e-4bb5-9fe3-6627e3ef1f34)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/dee56854-13c9-494a-a9be-613d1917b5e1)
+    3. [YOLOv8](https://github.com/agoel11/KEYS2023/assets/81878922/d72d9d80-feaf-4d0d-9428-bd06c6592de2)
 4. [Multi-Animal Video](https://github.com/agoel11/KEYS2023/assets/81878922/df2f5f22-2d05-4c7e-9509-49c46db1779f) (MA, 6.35 MB, 13 sec.)
     1. [DeepLabCut](https://github.com/agoel11/KEYS2023/assets/81878922/1645742d-691d-4647-8324-04f29499d519)
     2. [Track-Anything](https://github.com/agoel11/KEYS2023/assets/81878922/b33a73da-1d03-4a89-b7c3-203d997615fc)
+    3. [YOLOv8](https://github.com/agoel11/KEYS2023/assets/81878922/1bf8f0ad-b8f1-4654-afd8-c8e24e68da6d)
 
 | Method | Use Case | Number of Papers Using Tool | Activeness | Total Time to Test | Processing Time | Ease of Use | Efficiency of Single-Human Segmentation | Efficiency of Multi-Human Segmentation | Efficiency of Single-Animal Segmentation | Efficiency of Multi-Animal Segmentation |
 |-|-|-|-|-|-|-|-|-|-|-|
