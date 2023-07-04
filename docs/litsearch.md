@@ -131,6 +131,6 @@ All qualitative fields will be marked on a scale of 1-5 with 1 representing a wo
 |-|-|-|-|-|-|-|-|-|-|-|-|
 | DeepLabCut | Trained Pose Estimation/ Tracking | http://bit.ly/DLCMZ | 3310 | 5 | SH - 6m <br />MH - 5m <br />SA - 5m <br />MA - 5m| SH - 1m <br />MH - 1m <br />SA - 56s <br />MA - 56s| 4 | 4 | 2 | 3 | 3 |
 | Track-Anything | Semi-supervised Segmentation/ Tracking | https://bit.ly/TrAn | 3 | 4 | SH - 3m <br />MH - 2m <br />SA - 2m <br />MA - 3m | SH - 2m <br />MH - 1m <br />SA - 52s <br />MA - 1m| 5 | 4 | 5 | 5 | 4 |
-| XMem | Trained Segmentation/ Tracking | 1500 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
-| MaskFreeVIS | Trained Segmentation/ Tracking | 2 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
+| XMem | Trained Segmentation/ Tracking | https://xxxxxx/xxxx | 1500 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
+| MaskFreeVIS | Trained Segmentation/ Tracking | https://xxxxxx/xxxx | 2 | 1 | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | SH - 0m <br />MH - 0m <br />SA - 0m <br />MA - 0m | 1 | 1 | 1 | 1 | 1 |
 | YOLOv8 | Trained Pose Estimation/ Tracking | https://bit.ly/YOLO8 | 382 | 5 | SH - 2m <br />MH - 2m <br />SA - 3m <br />MA - 5m | SH - 1m <br />MH - 45s <br />SA - 1m <br />MA - 1m | 4 | 4 | 4 | 2 | 1 |
