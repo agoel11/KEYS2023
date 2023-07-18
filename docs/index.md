@@ -5,7 +5,7 @@
 
 Author: Atharva Goel
 
-Advisor: Dr. Nirav C Merchant
+Advisor: Nirav C Merchant
 
 ## About
 Atharva Goel is a rising Senior at Paradise Valley High School in Phoenix, Arizona. During the summer of 2023 he is an intern at The University of Arizona through the BIO5 Institute's [KEYS program.](https://keys.arizona.edu/)
