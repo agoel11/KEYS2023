@@ -85,3 +85,6 @@ Finished poster by adding final touches and submitted for approval for KEYS Crew
 
 ####***Day 28 (7/17)***:
 Made final edits to poster and recieved approval from Jordan. Did final reviews over poster and then submitted to KEYS for printing. Submitted presentation as well after adding final citations and small updates. Continued work on Snakemake pipeline with no success. Tried to look at documentation and tried various different methods to no avail. Tried to create a new analysis in CyVerse and use pure python to create the pipeline rather than using Snakemake. Starting coding pipeline in python and created function to split files and process DLC but started connecting and ran into some issues. Working to see if pure python script can work for the pipeline. Also started working on getting to know process for continuing with UofA research after KEYS.
+
+####***Day 29 (7/18)***:
+Continued work and research on pipeline with little success. DLC processing only process first video not all videos after they are cut up into 5 second chunks. Tried to continue work on pipeline to make it work along with practicing for KEYS Slam and Showcase. Pipeline will not be ready for end of KEYS most likely, and will be halted after KEYS due to focus on Dr. Hammer's research. Continued to practice presentations and delivery of research as well as format of elevator speech. 
