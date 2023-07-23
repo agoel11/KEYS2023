@@ -92,6 +92,8 @@ Continued work and research on pipeline with little success. DLC processing only
 ####***Day 30 (7/19)***:
 Continued some work on pipeline but mostly moved on to practicing for KEYS presentation and slam. Had meeting with KEYS group to practice and review speeches and presentations. Continued practice throughout the day with some work on pipeline to get it down. Using pure python for pipeline did not change much in terms of efficiency. After KEYS is done, will try using Nextflow instead of Snakemake in order to allow for easier pipelining.
 
-####***Day 31 (7/20)***: Traveled to Tucson and recorded KEYS Slam presentation. Met all the KEYS staff and interns and had a great time overall. Started getting ready for poster session as well.
+####***Day 31 (7/20)***: 
+Traveled to Tucson and recorded KEYS Slam presentation. Met all the KEYS staff and interns and had a great time overall. Started getting ready for poster session as well.
 
-####***Day 32 (7/21)***: Finally presented poster and showcased my research to everyone. Recieved great feedback and compliments on my poster as well as my research. Had an amazing time with the interns and the experience of presenting research. Attended closing ceremony and recieved certificate as well as attended program debrief after. Concluded KEYS on a high note and had a great experience. Looking forward to continuing research with Dr. Merchant. 
+####***Day 32 (7/21)***: 
+Finally presented poster and showcased my research to everyone. Recieved great feedback and compliments on my poster as well as my research. Had an amazing time with the interns and the experience of presenting research. Attended closing ceremony and recieved certificate as well as attended program debrief after. Concluded KEYS on a high note and had a great experience. Looking forward to continuing research with Dr. Merchant. 
